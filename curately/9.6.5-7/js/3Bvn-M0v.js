@@ -1,0 +1,1 @@
+import{k as e}from"./Da4I77gy.js";function r(){return e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"C:/Curately-aws-demo-test/curately-9.6.5/curately-9.6.5/src/shared/styles/PrimeReactCSS.tsx",lineNumber:8,columnNumber:12},this)}export{r as default};

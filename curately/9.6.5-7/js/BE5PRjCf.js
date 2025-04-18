@@ -1,0 +1,1 @@
+import{k as e}from"./Da4I77gy.js";import"./Cqmo5alD.js";const r=()=>e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"C:/Curately-aws-demo-test/curately-9.6.5/curately-9.6.5/src/assets/font-segoe/Font.tsx",lineNumber:4,columnNumber:12},void 0);export{r as default};

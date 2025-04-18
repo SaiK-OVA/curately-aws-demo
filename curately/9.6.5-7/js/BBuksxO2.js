@@ -1,0 +1,1 @@
+import{k as e}from"./Da4I77gy.js";function t(){return e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"C:/Curately-aws-demo-test/curately-9.6.5/curately-9.6.5/src/shared/styles/BorderCSS.tsx",lineNumber:5,columnNumber:12},this)}export{t as default};
